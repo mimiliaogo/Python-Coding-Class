@@ -20,13 +20,14 @@ By the end of the course, you will be able to:
 
 ## Course Schedule *(Tentative, subject to change)*
 
-| Week  | Date         | Topics                         | Instructor |
-|-------|-------------|--------------------------------|------------|
-| 1     | Feb 26, 2025 | Computer Science Overview, Basic I/O, Data Types | Mimi       |
-| 2     | Mar 5, 2025  | If/else, for/while loop (1D)  | Luis       |
-| 3     | Mar 12, 2025 | for/while loop (nested loop)  | Yiwei      |
-| 4     | Mar 19, 2025 | Lists & Dictionaries          | Yiwei      |
-| 5     | Mar 26, 2025 | Functions                     | Kenny      |
-| 6     | Apr 2, 2025  | Revisit & Recap & More Exercises | Mimi   |
-| 7     | Apr 9, 2025  | Classes & Objects             | Yun-Ping   |
-| 8     | Apr 16, 2025 | Write a Small Program        | Mimi       |
+| Week  | Date         | Topics                         | Instructor | Google Slides |
+|-------|-------------|--------------------------------|------------|---------------|
+| 1     | Feb 26, 2025 | Computer Science Overview, Basic I/O, Data Types | Mimi       |               |
+| 2     | Mar 5, 2025  | If/else, for/while loop (1D)  | Luis       |               |
+| 3     | Mar 12, 2025 | for/while loop (nested loop)  | Yiwei      |               |
+| 4     | Mar 19, 2025 | Lists & Dictionaries          | Yiwei      |               |
+| 5     | Mar 26, 2025 | Functions                     | Kenny      |               |
+| 6     | Apr 2, 2025  | Revisit & Recap & More Exercises | Mimi   |               |
+| 7     | Apr 9, 2025  | Classes & Objects             | Yun-Ping   |               |
+| 8     | Apr 16, 2025 | Write a Small Program        | Mimi       |               |
+
