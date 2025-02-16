@@ -10,8 +10,12 @@ By the end of the course, you will be able to:
 - Work with data structures such as lists and dictionaries.
 - Apply object-oriented programming concepts to build small applications.
 
+## Weekly Class Time
+- Schedule: Wednesdays, 6 PM - 7 PM CT
+- Zoom Link: To be posted
+  
 ## Communication
-- **Discord:** For announcements, Q&A, and discussions.
+- **Discord:** For announcements, Q&A, and discussions. https://discord.gg/3SArvuk5
 - **Teaching Materials:** All course materials, including slides, exercises, and assignments, will be available on this GitHub repository.
 
 ## Course Schedule *(Tentative, subject to change)*
