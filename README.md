@@ -24,7 +24,7 @@ By the end of the course, you will be able to:
 |-------|-------------|--------------------------------|------------|---------------|---------------|
 | 1     | Feb 26, 2025 | Computer Science Overview, Basic I/O, Data Types | Mimi       |[Week 1](https://docs.google.com/presentation/d/1guqQGlQR4lOj3sFPC4Ln9MbjWW0dKyPBWuV-VxjjFS8/edit?usp=sharing)               |[Week 1](https://colab.research.google.com/drive/1fhfhYPhlbD86qQ8-gUmo4lIix8uJ95qS?usp=sharing) |
 | 2     | Mar 5, 2025  | If/else, for/while loop (1D)  | Luis       | [Week 2](https://docs.google.com/presentation/d/1M8XNdaMyR5WabYCY5l5t1pF69L1ER5y-RpNQ3up3BC0/edit?usp=sharing)              | [Week 2](https://colab.research.google.com/drive/19ea0zj8_kAedRu0RMahIPuXJxe6XRx5R?usp=sharing) | 
-| 3     | Mar 12, 2025 | for/while loop (nested loop)  | Yiwei      |               |  |
+| 3     | Mar 12, 2025 | for/while loop (nested loop)  | Yiwei      |[Week 3](https://docs.google.com/presentation/d/1QyOPSdf1xBboijs_jcn1J8ehL2lWsmqAeqLvSbG1wm8/edit?usp=sharing)               | [Week 3](https://colab.research.google.com/drive/1TkmOktWlZF-VttAzZPUN5yvMhMZWkP78?usp=sharing)   |
 | 4     | Mar 19, 2025 | Lists & Dictionaries          | Yiwei      |               ||
 | 5     | Mar 26, 2025 | Functions                     | Kenny      |               ||
 | 6     | Apr 2, 2025  | Revisit & Recap & More Exercises | Mimi   |               ||
